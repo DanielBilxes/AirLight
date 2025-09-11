@@ -4,7 +4,7 @@
 
 # 📑 Index
 
-1. **Introduction** 
+1. **Introduction**  
    1.1. The Problem  
    1.2. Our Solution  
 
@@ -29,6 +29,7 @@
    7.1. Interface Evolution  
    7.2. Results of the Heuristic Evaluation  
    7.3. High Definition Interfaces  
+  
 
 ---
 
