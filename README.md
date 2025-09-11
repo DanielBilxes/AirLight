@@ -1,8 +1,8 @@
-# 🌍 AirLight – UXD Project  
+# AirLight – UXD Project  
 
 ---
 
-# 📑 Index
+# Index
 
 1. **Introduction**  
    1.1. The Problem  
@@ -66,9 +66,9 @@ This solution promotes **awareness, prevention, and efficiency** in communicatio
 
 ## 2. Team & Roles  
 
-- 🎨 **Research & Personas** → Characterization of users, mental models, usability studies.  
-- 🗺️ **Navigation & Prototypes** → User flows, diagrams, Figma prototypes.  
-- 📝 **Documentation & Deliverables** → Reports, Value Proposition Canvas, final PDFs.  
+- **Research & Personas** → Characterization of users, mental models, usability studies.  
+- **Navigation & Prototypes** → User flows, diagrams, Figma prototypes.  
+- **Documentation & Deliverables** → Reports, Value Proposition Canvas, final PDFs.  
 
 ---
 
@@ -92,7 +92,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ### 3.2 UX Personas  
 
-#### 👤 Persona 1 – Physical Education Teacher  
+####UXP 1 – Physical Education Teacher  
 - **Name:** Carlos Muñoz  
 - **Age:** 38  
 - **Occupation:** Physical Education Teacher  
@@ -103,7 +103,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-#### 👤 Persona 2 – Young Adult Athlete  
+####UXP 2 – Young Adult Athlete  
 - **Name:** Daniela Rivas  
 - **Age:** 24  
 - **Occupation:** University Student, Amateur Runner  
@@ -114,7 +114,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-#### 👤 Persona 3 – Senior Citizen  
+####UXP 3 – Senior Citizen  
 - **Name:** Jorge Ramírez  
 - **Age:** 70  
 - **Occupation:** Retired Engineer  
