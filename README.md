@@ -4,7 +4,7 @@
 
 # 📑 Index
 
-[1. **Introduction**](#-##1. Introduction)  
+[1. **Introduction**](#-Introduction)  
    1.1. The Problem  
    1.2. Our Solution  
 
