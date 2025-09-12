@@ -111,6 +111,8 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-### 3.3 Benchmarking 
+### 3.3 Benchmarking
+
+---
 
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
