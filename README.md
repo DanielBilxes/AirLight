@@ -5,7 +5,7 @@
 # Index
 
 1. [Introduction](#1-introduction)  
-   1.1. [The Problem](#1.1the-problem)  
+   [1.1 The Problem](#11-the-problem)  
    1.2. Our Solution  
 
 2. **Team & Roles**  
