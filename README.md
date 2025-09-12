@@ -115,15 +115,20 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ### 3.3 Benchmarking
 
-The following diagram applies the **Four Actions Framework (Blue Ocean Strategy)** to compare **AirLight** with existing air quality apps (Aire Santiago, AirVisual, and Aire Temuco).  
+To design an application that truly responds to the needs of citizens and administrators in southern Chile, it was essential to analyze existing air quality platforms — including both direct competitors and indirect references recognized for their design and usability.  
 
-It highlights the actions that our solution will:  
-- **Increase (↑)**: Strengthen or expand compared to competitors.  
-- **Include/Create (✚)**: Add innovative features unique to AirLight.  
-- **Reduce (↓)**: Simplify or limit to avoid user frustration.  
-- **Remove (✖)**: Eliminate barriers and inefficiencies present in current services.
+To understand how our air quality application can stand out and truly address user needs, we conducted a comparative analysis of existing solutions in the market.
+
+The goal was to identify strengths, weaknesses, and opportunity gaps, both functionally and visually, in order to integrate best practices and avoid common pitfalls.
+
+We considered different types of references:
+Direct competitors: Air quality applications such as Aire Santiago, AirVisual, and Aire Temuco.
+Data platforms: Services recognized for their clear way of displaying environmental and health information.
+User experience references: Applications known for their modern, accessible, and minimalistic design, which inspired the aesthetic and usability of our solution.
 
 ![value_canvas](./01-context/Benchmarking.png)
+
+*Figure: Benchmarking of AirLight vs. existing air quality apps (Aire Santiago, AirVisual, Aire Temuco) using the Four Actions Framework.*  
 
 ---
 
