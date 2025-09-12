@@ -125,44 +125,44 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 ---
 
 ### 3.3 Benchmarking  
-(Comparative analysis of existing apps and services goes here)  
+  
 
 ---
 
 ## 4. Scope  
 
 ### 4.1 Customer Journey Map  
-(Description + visual of the journey map)  
+  
 
 #### 4.1.1 Decision Stage Interfaces  
-(Specific decision-point screens go here)  
+ 
 
 ---
 
 ## 5. Structure  
 
 ### 5.1 Navigation Flow  
-(Diagram + description of navigation)  
+
 
 ---
 
 ## 6. Skeleton  
 
 ### 6.1 Low-Fi Wireframes  
-(Insert wireframes or sketches)  
+ 
 
 ---
 
 ## 7. Surface  
 
 ### 7.1 Interface Evolution  
-(Description of changes through iterations)  
+  
 
 ### 7.2 Results of the Heuristic Evaluation  
-(Findings and improvements)  
+ 
 
 ### 7.3 High Definition Interfaces  
-(Final UI mockups)  
+ 
 
 ---
 
