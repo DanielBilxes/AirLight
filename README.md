@@ -115,6 +115,14 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ### 3.3 Benchmarking
 
+The following diagram applies the **Four Actions Framework (Blue Ocean Strategy)** to compare **AirLight** with existing air quality apps (Aire Santiago, AirVisual, and Aire Temuco).  
+
+It highlights the actions that our solution will:  
+- **Increase (↑)**: Strengthen or expand compared to competitors.  
+- **Include/Create (✚)**: Add innovative features unique to AirLight.  
+- **Reduce (↓)**: Simplify or limit to avoid user frustration.  
+- **Remove (✖)**: Eliminate barriers and inefficiencies present in current services.
+
 ![value_canvas](./01-context/Benchmarking.png)
 
 ---
