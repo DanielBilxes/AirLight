@@ -124,46 +124,6 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-### 3.3 Benchmarking  
-  
-
----
-
-## 4. Scope  
-
-### 4.1 Customer Journey Map  
-  
-
-#### 4.1.1 Decision Stage Interfaces  
- 
-
----
-
-## 5. Structure  
-
-### 5.1 Navigation Flow  
 
 
----
-
-## 6. Skeleton  
-
-### 6.1 Low-Fi Wireframes  
- 
-
----
-
-## 7. Surface  
-
-### 7.1 Interface Evolution  
-  
-
-### 7.2 Results of the Heuristic Evaluation  
- 
-
-### 7.3 High Definition Interfaces  
- 
-
----
-
-📌 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
+This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
