@@ -8,7 +8,7 @@
    [1.1 The Problem](#11-the-problem)  
    [1.2. Our Solution](#12-our-solution)  
 
-2. **Team & Roles**  
+2. [Team & Roles](#2-team-&-roles)  
 
 3. **Strategy**  
    3.1. Value Proposition Canvas  
