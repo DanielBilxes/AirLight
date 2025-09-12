@@ -15,20 +15,7 @@
    3.2 [UX Personas](#32-ux-personas)  
    3.3 [Benchmarking](#33-benchmarking)  
 
-4. [Scope](#4-scope)  
-   4.1 [Customer Journey Map](#41-customer-journey-map)  
-   4.1.1 [Decision Stage Interfaces](#411-decision-stage-interfaces)  
 
-5. [Structure](#5-structure)  
-   5.1 [Navigation Flow](#51-navigation-flow)  
-
-6. [Skeleton](#6-skeleton)  
-   6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)  
-
-7. [Surface](#7-surface)  
-   7.1 [Interface Evolution](#71-interface-evolution)  
-   7.2 [Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)  
-   7.3 [High Definition Interfaces](#73-high-definition-interfaces)  
 
 ---
 
@@ -124,6 +111,6 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-
+### 3.3 Benchmarking 
 
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
