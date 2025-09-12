@@ -86,7 +86,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 - **Gain Creators**:  
   Safety and trust for users, awareness in the community, efficient communication, time-saving.  
 
-*(See full [Value Proposition Canvas](./01-context/archivo.dm/Prupuesta_de_Valor.png))*  
+*(See full [Value Proposition Canvas](./01-context/Prupuesta_de_Valor.png))*  
 
 ---
 
