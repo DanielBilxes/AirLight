@@ -4,7 +4,7 @@
 
 # Index
 
-1. [1. Introduction](#1-introduction)  
+1. [Introduction](#1-introduction)  
    [1.1 The Problem](#11-the-problem)  
    [1.2. Our Solution](#12-our-solution)  
 
