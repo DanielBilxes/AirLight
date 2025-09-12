@@ -5,31 +5,30 @@
 # Index
 
 1. [Introduction](#1-introduction)  
-   [1.1 The Problem](#11-the-problem)  
-   [1.2. Our Solution](#12-our-solution)  
+   1.1 [The Problem](#11-the-problem)  
+   1.2 [Our Solution](#12-our-solution)  
 
-2. **Team & Roles**  
+2. [Team & Roles](#2-team--roles)  
 
-3. **Strategy**  
-   3.1. Value Proposition Canvas  
-   3.2. UX Personas  
-   3.3. Benchmarking  
+3. [Strategy](#3-strategy)  
+   3.1 [Value Proposition Canvas](#31-value-proposition-canvas)  
+   3.2 [UX Personas](#32-ux-personas)  
+   3.3 [Benchmarking](#33-benchmarking)  
 
-4. **Scope**  
-   4.1. Customer Journey Map  
-   4.1.1. Decision Stage Interfaces  
+4. [Scope](#4-scope)  
+   4.1 [Customer Journey Map](#41-customer-journey-map)  
+   4.1.1 [Decision Stage Interfaces](#411-decision-stage-interfaces)  
 
-5. **Structure**  
-   5.1. Navigation Flow  
+5. [Structure](#5-structure)  
+   5.1 [Navigation Flow](#51-navigation-flow)  
 
-6. **Skeleton**  
-   6.1. Low-Fi Wireframes  
+6. [Skeleton](#6-skeleton)  
+   6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)  
 
-7. **Surface**  
-   7.1. Interface Evolution  
-   7.2. Results of the Heuristic Evaluation  
-   7.3. High Definition Interfaces  
-  
+7. [Surface](#7-surface)  
+   7.1 [Interface Evolution](#71-interface-evolution)  
+   7.2 [Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)  
+   7.3 [High Definition Interfaces](#73-high-definition-interfaces)  
 
 ---
 
@@ -92,7 +91,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ### 3.2 UX Personas  
 
-####UXP 1 – Physical Education Teacher  
+#### UXP 1 – Physical Education Teacher  
 - **Name:** Carlos Muñoz  
 - **Age:** 38  
 - **Occupation:** Physical Education Teacher  
@@ -103,7 +102,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-####UXP 2 – Young Adult Athlete  
+#### UXP 2 – Young Adult Athlete  
 - **Name:** Daniela Rivas  
 - **Age:** 24  
 - **Occupation:** University Student, Amateur Runner  
@@ -114,7 +113,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-####UXP 3 – Senior Citizen  
+#### UXP 3 – Senior Citizen  
 - **Name:** Jorge Ramírez  
 - **Age:** 70  
 - **Occupation:** Retired Engineer  
@@ -125,5 +124,46 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-📌 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
+### 3.3 Benchmarking  
+(Comparative analysis of existing apps and services goes here)  
 
+---
+
+## 4. Scope  
+
+### 4.1 Customer Journey Map  
+(Description + visual of the journey map)  
+
+#### 4.1.1 Decision Stage Interfaces  
+(Specific decision-point screens go here)  
+
+---
+
+## 5. Structure  
+
+### 5.1 Navigation Flow  
+(Diagram + description of navigation)  
+
+---
+
+## 6. Skeleton  
+
+### 6.1 Low-Fi Wireframes  
+(Insert wireframes or sketches)  
+
+---
+
+## 7. Surface  
+
+### 7.1 Interface Evolution  
+(Description of changes through iterations)  
+
+### 7.2 Results of the Heuristic Evaluation  
+(Findings and improvements)  
+
+### 7.3 High Definition Interfaces  
+(Final UI mockups)  
+
+---
+
+📌 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
