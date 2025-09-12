@@ -37,7 +37,7 @@ At the same time, administrators face difficulties in:
 We propose a **mobile application – AirLight** with two profiles:  
 
 - **Citizen User**  
-  - Immediately sees the **traffic-light indicator** (green, yellow, red).  
+  - Immediately sees the **traffic-light indicator** (green, yellow, red and purple).  
   - Receives clear **health recommendations** according to air status.  
   - Accesses **interactive maps**, **local news**, and an **air quality history**.  
 
@@ -52,9 +52,11 @@ This solution promotes **awareness, prevention, and efficiency** in communicatio
 
 ## 2. Team & Roles  
 
-- **Research & Personas** → Characterization of users, mental models, usability studies.  
-- **Navigation & Prototypes** → User flows, diagrams, Figma prototypes.  
-- **Documentation & Deliverables** → Reports, Value Proposition Canvas, final PDFs.  
+- **Cristopher Gallegos** → .  
+- **Eduardo Krause** → .  
+- **Enrique Pincheira** → .
+- **Angel Rocha** → .
+- **Daniel Sepúlveda** → .  
 
 ---
 
