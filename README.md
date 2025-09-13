@@ -52,11 +52,11 @@ This solution promotes **awareness, prevention, and efficiency** in communicatio
 
 ## 2. Team & Roles  
 
-- **Cristopher Gallegos** → .  
-- **Eduardo Krause** → .  
-- **Enrique Pincheira** → .
+- **Cristopher Gallegos** → Analyst.  
+- **Eduardo Krause** → Designer.  
+- **Enrique Pincheira** → Presentar.
 - **Angel Rocha** → .
-- **Daniel Sepúlveda** → .  
+- **Daniel Sepúlveda** → Project Manager.  
 
 ---
 
