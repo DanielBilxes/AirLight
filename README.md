@@ -54,7 +54,7 @@ This solution promotes **awareness, prevention, and efficiency** in communicatio
 
 - **Cristopher Gallegos** → Analyst.  
 - **Eduardo Krause** → Designer.  
-- **Enrique Pincheira** → Presentar.
+- **Enrique Pincheira** → Presenter.
 - **Angel Rocha** → .
 - **Daniel Sepúlveda** → Project Manager.  
 
