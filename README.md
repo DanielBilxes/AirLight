@@ -31,7 +31,7 @@ Citizens often:
 At the same time, administrators face difficulties in:  
 - Communicating alerts to the population in real time.  
 - Managing several data sources.  
-- Centralizing information in a single platform.  
+- Centralizing information into a single registry/digital library.  
 
 ### 1.2 Our Solution  
 We propose a **mobile application – AirLight** with two profiles:  
