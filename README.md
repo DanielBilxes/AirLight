@@ -53,9 +53,9 @@ This solution promotes **awareness, prevention, and efficiency** in communicatio
 ## 2. Team & Roles  
 
 - **Cristopher Gallegos** → Analyst.  
-- **Eduardo Krause** → Designer.  
+- **Eduardo Krause** → UI Designer.  
 - **Enrique Pincheira** → Presenter.
-- **Angel Rocha** → Designer.
+- **Angel Rocha** → UX Designer.
 - **Daniel Sepúlveda** → Project Manager.  
 
 ---
