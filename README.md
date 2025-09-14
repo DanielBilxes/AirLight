@@ -80,7 +80,8 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ### 3.2 UX Personas  
 
-#### UXP 1 – Physical Education Teacher  
+#### UXP 1 – Physical Education Teacher
+![value_canvas](./01-context/Carlos_Muñoz.png)
 - **Name:** Carlos Muñoz  
 - **Age:** 38  
 - **Occupation:** Physical Education Teacher  
@@ -91,7 +92,8 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-#### UXP 2 – Young Adult Athlete  
+#### UXP 2 – Young Adult Athlete
+![value_canvas](./01-context/Daniela_Rivas.png)
 - **Name:** Daniela Rivas  
 - **Age:** 24  
 - **Occupation:** University Student, Amateur Runner  
@@ -102,7 +104,8 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 
 ---
 
-#### UXP 3 – Senior Citizen  
+#### UXP 3 – Senior Citizen
+![value_canvas](./01-context/Jorge_Ramirez.png)
 - **Name:** Jorge Ramírez  
 - **Age:** 70  
 - **Occupation:** Retired   
