@@ -105,7 +105,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 #### UXP 3 – Senior Citizen  
 - **Name:** Jorge Ramírez  
 - **Age:** 70  
-- **Occupation:** Retired Engineer  
+- **Occupation:** Retired   
 - **Background:** Lives in Labranza. Goes for a walk every morning to stay active, but his age and respiratory issues make him vulnerable. Often bases his decision on smell or visibility of the air rather than reliable information.  
 - **Goals:** Walk outdoors safely, maintain his routine without risking his health, receive simple and clear guidance.  
 - **Pains:** Anxiety about health risks, difficulty interpreting technical information, limited ability to move to cleaner areas.  
