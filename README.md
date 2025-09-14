@@ -126,7 +126,7 @@ Direct competitors: Air quality applications such as Aire Santiago, AirVisual, a
 Data platforms: Services recognized for their clear way of displaying environmental and health information.
 User experience references: Applications known for their modern, accessible, and minimalistic design, which inspired the aesthetic and usability of our solution.
 
-![value_canvas](./01-context/Benchmarking.png)
+![value_canvas](./01-context/Benchmarkin.png)
 
 *Figure: Benchmarking of AirLight vs. existing air quality apps (Aire Santiago, AirVisual, Aire Temuco) using the Four Actions Framework.*  
 
