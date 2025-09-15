@@ -81,38 +81,17 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 ### 3.2 UX Personas  
 
 #### UXP 1 – Physical Education Teacher
-![value_canvas](./01-context/Carlos_Muñoz.png)
-- **Name:** Carlos Muñoz  
-- **Age:** 38  
-- **Occupation:** Physical Education Teacher  
-- **Background:** Works at a high school in Temuco. Organizes outdoor physical activities for students but often struggles to decide if the air is safe. Currently relies on scattered news and personal judgment, which leads to last-minute changes in plans.  
-- **Goals:** Ensure students’ health, plan outdoor lessons only if conditions are safe, avoid disruptions in schedules.  
-- **Pains:** Lack of reliable info, concern about respiratory problems in students, sudden changes in air quality.  
-- **Behaviors (Before AirLight):** Prepares lessons without certainty about air conditions, checks local news or asks colleagues, and frequently cancels or moves activities at the last moment.  
+![value_canvas](./01-context/Carlos.png)
 
 ---
 
 #### UXP 2 – Young Adult Athlete
-![value_canvas](./01-context/Daniela_Rivas.png)
-- **Name:** Daniela Rivas  
-- **Age:** 24  
-- **Occupation:** University Student, Amateur Runner  
-- **Background:** Lives in Padre Las Casas. Enjoys running and cycling outdoors almost every day, but pollution often disrupts her routine. Relies on weather apps or social media that don’t provide clear air quality data.  
-- **Goals:** Exercise safely, choose best times and areas for training, avoid interruptions caused by pollution.  
-- **Pains:** Frustration when training is canceled due to pollution, lack of forecast, multiple unreliable sources.  
-- **Behaviors (Before AirLight):** Wakes up early and decides impulsively if conditions seem “good enough,” sometimes asks friends about alerts, occasionally cuts her run short when noticing bad air quality.  
+![value_canvas](./01-context/Daniela.png)  
 
 ---
 
 #### UXP 3 – Senior Citizen
-![value_canvas](./01-context/Jorge_Ramirez.png)
-- **Name:** Jorge Ramírez  
-- **Age:** 70  
-- **Occupation:** Retired   
-- **Background:** Lives in Labranza. Goes for a walk every morning to stay active, but his age and respiratory issues make him vulnerable. Often bases his decision on smell or visibility of the air rather than reliable information.  
-- **Goals:** Walk outdoors safely, maintain his routine without risking his health, receive simple and clear guidance.  
-- **Pains:** Anxiety about health risks, difficulty interpreting technical information, limited ability to move to cleaner areas.  
-- **Behaviors (Before AirLight):** Wakes up early and prepares for his walk without checking formal air data, relies on perception (“the sky looks clear”), and sometimes cancels after feeling unwell outdoors.  
+![value_canvas](./01-context/Jorge.png)  
   
 ---
 
