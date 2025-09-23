@@ -13,7 +13,13 @@
 3. [Strategy](#3-strategy)  
    3.1 [Value Proposition Canvas](#31-value-proposition-canvas)  
    3.2 [UX Personas](#32-ux-personas)  
-   3.3 [Benchmarking](#33-benchmarking)  
+   3.3 [Benchmarking](#33-benchmarking)
+
+4. [Scope](#4-scope)  
+   4.1 [Costumer Journey Map](#41-costumer-journey-map)
+
+5. [Structure](#4-structure)  
+   5.1 [Navigation Flow](#51-navigation-flow) 
 
 
 
