@@ -19,7 +19,9 @@
    4.1 [Costumer Journey Map](#41-costumer-journey-map)
 
 5. [Structure](#4-structure)  
-   5.1 [Navigation Flow](#51-navigation-flow) 
+   5.1 [Navigation Flow](#51-navigation-flow)
+   5.1.1 [Admin View](#511-admin-view)
+   5.1.2 [User View](#511-user-view) 
 
 
 
@@ -129,6 +131,10 @@ User experience references: Applications known for their modern, accessible, and
 ## 5. Structure
 
 ### 5.1 Navigation Flow
+
+#### 5.1.1 Admin View
+
+#### 5.1.2 User View
 
 ---
 
