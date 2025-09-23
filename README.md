@@ -120,4 +120,16 @@ User experience references: Applications known for their modern, accessible, and
 
 ---
 
+## 4. Scope
+
+### 4.1 Costumer Journey Map
+
+---
+
+## 5. Structure
+
+### 5.1 Navigation Flow
+
+---
+
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
