@@ -19,11 +19,9 @@
    4.1 [Costumer Journey Map](#41-costumer-journey-map)
 
 5. [Structure](#4-structure)  
-   5.1 [Navigation Flow](#51-navigation-flow)      
-      5.1.1 [Web Admin View](#511-web-admin-view)      
-      5.1.2 [Mobile User View](#512-mobile-user-view)       
-
-
+   5.1 [Navigation Flow](#51-navigation-flow)   
+   5.1.1 [Web Admin View](#511-web-admin-view)
+   5.1.2 [Mobile User View](#512-mobile-user-view)     
 
 ---
 
