@@ -20,8 +20,8 @@
 
 5. [Structure](#4-structure)  
    5.1 [Navigation Flow](#51-navigation-flow)
-   5.1.1 [Admin View](#511-admin-view)
-   5.1.2 [User View](#512-user-view) 
+   5.1.1 [Web Admin View](#511-web-admin-biew)
+   5.1.2 [Mobile User View](#512-mobile-user-view) 
 
 
 
@@ -132,9 +132,9 @@ User experience references: Applications known for their modern, accessible, and
 
 ### 5.1 Navigation Flow
 
-#### 5.1.1 Admin View
+#### 5.1.1 Web Admin View
 
-#### 5.1.2 User View
+#### 5.1.2 Mobile User View
 
 ---
 
