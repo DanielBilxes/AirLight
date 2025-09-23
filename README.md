@@ -21,7 +21,7 @@
 5. [Structure](#4-structure)  
    5.1 [Navigation Flow](#51-navigation-flow)
    5.1.1 [Admin View](#511-admin-view)
-   5.1.2 [User View](#511-user-view) 
+   5.1.2 [User View](#512-user-view) 
 
 
 
