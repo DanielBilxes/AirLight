@@ -131,6 +131,8 @@ User experience references: Applications known for their modern, accessible, and
 ## 5. Structure
 
 ### 5.1 Navigation Flow
+
+These stages reflect the complete journey — from first contact to long-term perception and potential recommendation.
 ![value_canvas](./01-context/Costumer_Journey_Map.png)
 
 #### 5.1.1 Web Admin View
