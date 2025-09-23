@@ -134,10 +134,10 @@ These stages reflect the complete journey — from first contact to long-term pe
 ### 5.1 Navigation Flow
 
 #### 5.1.1 Web Admin View
-![value_canvas](./01-context/Admin.png)
+![value_canvas](./01-context/Admin_View.png)
 
 #### 5.1.2 Mobile User View
-![value_canvas](./01-context/User.png)
+![value_canvas](./01-context/User_View.png)
 
 ---
 
