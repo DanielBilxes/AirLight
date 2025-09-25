@@ -40,7 +40,7 @@ At the same time, administrators face difficulties in:
 - Centralizing information into a single registry/digital library.  
 
 ### 1.2 Our Solution  
-We propose a **mobile application – AirLight** with two profiles:  
+We propose a web and mobile application – AirLight – with two profiles: administrator and citizen user. 
 
 - **Citizen User**  
   - Immediately sees the **traffic-light indicator** (green, yellow, red and purple).  
