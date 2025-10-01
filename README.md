@@ -23,7 +23,7 @@
    5.1.1 [Web Admin View](#511-web-admin-view)   
    5.1.2 [Mobile User View](#512-mobile-user-view)
 
-6. [Skeleton](#5-skeleton)
+6. [Skeleton](#5-skeleton)   
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)   
 
 ---
