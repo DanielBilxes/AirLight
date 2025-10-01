@@ -188,6 +188,47 @@ Main Views and Features:
 
 ---
 
+Prototype 2: Mobile User
+
+Purpose: Allows users to view air quality traffic lights, get health advice, read news, access maps, and report issues.
+
+Main Views and Features:
+
+1.- Login View
+   - Users can log in with email and password.
+   - If they don’t have an account, they are redirected to the Registration View.
+
+2.- Registration View
+   - Requests: Name, email, phone number, and password.
+   - After registration or pressing Back, users return to the Login View.
+
+3.- Home (Dashboard)
+   - Displays a traffic light with its current color and status.
+   - Next to it: AQI value and main pollutant.
+   - Below: Health advice.
+   - At the bottom: Brief news with a “[Read More]” link that opens the full news.      
+      - Full news view includes a Back button to return to Home.
+
+4.- Map Button / Mini Map View
+   - Shows a map occupying about half the screen.
+   - Below the map: details for the user’s location.
+   - Clicking the map opens the Full Map View.
+
+5.- Full Map View
+   - Larger map similar to the Admin map.
+   - Users cannot see other reports.
+    -Users can report a faulty traffic light: clicking Report opens a mini view to detail the issue and submit it.
+
+6.- History View
+   - Displays the same table as Admin, but read-only.
+   - Users can use the Filter button to sort the data.
+
+7.- Navigation and Header
+   - Logout button at the top-right in all main views.
+   - Navigation bar at the bottom to switch between Home, Map, and History.
+
+---
+
 Design Notes:
    - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
    - Useful for validating structure, navigation, and interaction logic before moving to high-fidelity prototypes.
