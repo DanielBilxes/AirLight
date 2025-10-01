@@ -21,7 +21,10 @@
 5. [Structure](#4-structure)  
    5.1 [Navigation Flow](#51-navigation-flow)   
    5.1.1 [Web Admin View](#511-web-admin-view)   
-   5.1.2 [Mobile User View](#512-mobile-user-view)     
+   5.1.2 [Mobile User View](#512-mobile-user-view)
+
+6. [Skeleton](#5-skeleton)
+   6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)   
 
 ---
 
@@ -140,5 +143,9 @@ These stages reflect the complete journey — from first contact to long-term pe
 ![value_canvas](./01-context/User_View.png)
 
 ---
+
+# 6. Skeleton
+
+### 6.1 Low-Fi Wireframes
 
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
