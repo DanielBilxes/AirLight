@@ -148,4 +148,50 @@ These stages reflect the complete journey — from first contact to long-term pe
 
 ### 6.1 Low-Fi Wireframes
 
+Prototype 1: Admin Web
+
+Purpose: Allows the administrator to manage air quality traffic lights, news, and health advice, as well as view records and interactive maps.
+
+Main Views and Features:
+
+1.- Admin Login
+   - Requests username and password.
+   - Provides secure access to the system.
+
+2.- Home (Dashboard)
+   - Traffic Light: Shows the current status using colors (green, yellow, red).      
+      - Admin can change the status by clicking on a color.
+   - News: Editable section; opens another view to select or edit news items.
+   - Health Advice: Editable directly in the designated area.
+
+3.- Traffic Light Records
+   - Displays a table with the following data:      
+      - Traffic light ID
+      - Location
+      - Date
+      - PM (Particulate Matter)
+      - AQI (Air Quality Index)
+      - Status
+   - Options:      
+      - Filter: Sort or search within the table.      
+      - Add Record: Opens a form to manually enter new data.
+
+4.- Traffic Light Map
+   - Shows a map with icons for active traffic lights in different areas.
+   - Clicking an icon displays a traffic light details panel.
+    -Clicking elsewhere on the map opens a larger map with a report details panel submitted by users (mobile version).
+
+5.- Global Header (on all views)
+   - Navigation buttons: Home, Map, Records/History.
+   - Logo on the left.
+   - Logout icon on the right.
+
+---
+
+Design Notes:
+   - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
+   - Useful for validating structure, navigation, and interaction logic before moving to high-fidelity prototypes.
+
+---
+
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
