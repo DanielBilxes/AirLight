@@ -144,7 +144,7 @@ These stages reflect the complete journey — from first contact to long-term pe
 
 ---
 
-# 6. Skeleton
+## 6. Skeleton
 
 ### 6.1 Low-Fi Wireframes
 
