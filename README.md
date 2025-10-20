@@ -238,4 +238,13 @@ Complete set of initial low-fidelity wireframes available in the shared Figma wo
 
 ---
 
+Design Notes:
+   - 
+   -
+   
+📁 [Figma Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2671-29&p=f&t=hB37XuIXhJjbfGOe-0).
+Complete set of initial Figma HD available in the shared Figma Workspace, including all early-stage interface concepts.
+
+---
+
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
