@@ -239,11 +239,16 @@ Complete set of initial low-fidelity wireframes available in the shared Figma wo
 ---
 
 Design Notes:
-   - 
-   -
+Within this space, both low-fidelity wireframes (Low-Fi) and high-fidelity prototypes (HD) were developed to visualize the system’s structure, navigation, and interaction before implementation.
+
+Through Figma, the team was able to:
+   - Design and link screens to simulate the user experience (for both mobile and web).
+   - Collaborate in real time, making adjustments and comments directly on the designs.
+   - Validate usability and visual consistency before moving to the development phase.
    
 📁 [Figma Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2671-29&p=f&t=hB37XuIXhJjbfGOe-0).
-Complete set of initial Figma HD available in the shared Figma Workspace, including all early-stage interface concepts.
+In summary, the Figma Workspace serves as the central hub for visual design and usability validation of the AirLight project.
+
 
 ---
 
