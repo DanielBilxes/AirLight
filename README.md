@@ -301,8 +301,7 @@ The desktop view has been expanded into a comprehensive command center, divided 
 Login: Clean and secure entry point for administrators.
 ![value_canvas](./01-context/Login-Web2.jpg) 
 
-Dashboard: The central hub displaying the current global status. 
-   - Add News: A content management tool to publish health advice and local updates directly to the mobile app.
+Dashboard: The central hub displaying the current global status. Add News: A content management tool to publish health advice and local updates directly to the mobile app.
 ![value_canvas](./01-context/Dashboard-Web3.jpg) 
 
 History & Add Record: Full access to historical data logs with the ability to manually input new air quality records.  
