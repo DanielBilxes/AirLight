@@ -288,6 +288,35 @@ Map Views:
 ![value_canvas](./01-context/Mapa-Web.jpg)   
 ![value_canvas](./01-context/Mapa-User.jpg)  
 
+---
+
+### 7.2 Mockups v2
+Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, spacing (white space), and accessibility contrasts.
+
+We prioritized the four core views to ensure a seamless user experience across devices:
+
+A. Web Admin Interface
+The desktop view focuses on data management and broad visualization.
+
+Login: Clean and secure entry point for administrators.
+![value_canvas](./01-context/Mapa-Web2.jpg) 
+
+
+Dashboard: A centralized command center featuring the editable "Air Status" and real-time alerts.
+![value_canvas](./01-context/Dashboard-Web3.jpg) 
+
+Map & History: Detailed visualization tools for tracking environmental data across different sectors.
+
+B. Mobile User Interface
+The mobile view is optimized for quick interactions and on-the-go readability.
+
+Login: Simplified access for citizens.
+
+Dashboard: Prioritizes the current status color and immediate health recommendations.
+
+Map: Interactive touch interface to check air quality in specific neighborhoods.
+
+History: Responsive data tables adapted for smaller screens.
 
 
 ---
