@@ -26,7 +26,7 @@
 6. [Skeleton](#6-skeleton)   
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)
     
-7. [Prototyping](#7-prototyping) 
+7. [Interactive Prototypes](#7-interactive-prototypes) 
 
 8. [Surface](#8-surface)  
    8.1 [Mockups v1](#81-mockups-v1)  
@@ -235,7 +235,7 @@ Main Views and Features:
 
 ---
 
-## 7. Prototyping
+## 7. Interactive Prototypes
 
 Design Notes:
    - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
