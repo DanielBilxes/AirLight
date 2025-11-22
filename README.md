@@ -306,6 +306,8 @@ Dashboard: A centralized command center featuring the editable "Air Status" and 
 ![value_canvas](./01-context/Dashboard-Web3.jpg) 
 
 Map & History: Detailed visualization tools for tracking environmental data across different sectors.
+![value_canvas](./01-context/Historial-Web2.jpg) ![value_canvas](./01-context/Add-Register.jpg) 
+
 
 B. Mobile User Interface
 The mobile view is optimized for quick interactions and on-the-go readability.
