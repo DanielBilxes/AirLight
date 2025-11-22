@@ -273,7 +273,20 @@ Initial testing of typography readability on the History tables.
 (Note: Insert a collage image here showing the early versions of the Dashboard and Login).
 
 Login Views:  
-![value_canvas](./01-context/Login-Web.jpg)
+![value_canvas](./01-context/Login-Web.jpg)   
+![value_canvas](./01-context/Login-User.jpg)  
+
+Dashboards Views:  
+![value_canvas](./01-context/Dashboard-Web.jpg)   
+![value_canvas](./01-context/Dashboard-User.jpg)   
+
+History Views:  
+![value_canvas](./01-context/Historial-Web.jpg)   
+![value_canvas](./01-context/Historial-User.jpg)  
+
+Map Views:  
+![value_canvas](./01-context/Mapa-Web.jpg)   
+![value_canvas](./01-context/Mapa-User.jpg)  
 
 
 
