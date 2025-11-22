@@ -260,19 +260,16 @@ In summary, the Figma Workspace serves as the central hub for visual design and 
 
 ---
 
-## 7. Surface
+## 8. Surface
 This layer defines the final visual appearance of AirLight. We applied the visual identity, color palette, and typography to bring the wireframes to life, ensuring the interface is both aesthetically pleasing and functional.
 
-### 7.1 Mockups v1
+### 8.1 Mockups v1
 In this first high-fidelity iteration, we translated the skeletal structure into visual designs. The focus was on applying the Air Quality Color System (Green, Yellow, Orange, Red, Purple) to test how users perceive the alerts.
 
 Key focus areas:
-
-Application of the primary color palette to the "Traffic Light" indicator.
-
-Basic layout of the Dashboard and Login screens for both Web and Mobile.
-
-Initial testing of typography readability on the History tables.
+Application of the primary color palette to the "Traffic Light" indicator.  
+Basic layout of the Dashboard and Login screens for both Web and Mobile.  
+Initial testing of typography readability on the History tables.  
 
 (Note: Insert a collage image here showing the early versions of the Dashboard and Login).
 
@@ -294,9 +291,8 @@ Map Views:
 
 ---
 
-### 7.2 Mockups v2
-Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, accessibility contrasts, and introduces the complete feature set for system administration.
-
+### 8.2 Mockups v2
+Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, accessibility contrasts, and introduces the complete feature set for system administration.  
 We prioritized the four core views to ensure a seamless user experience across devices:
 
 A. Web Admin Interface
