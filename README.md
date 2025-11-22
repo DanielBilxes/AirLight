@@ -27,8 +27,8 @@
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)
 
 7. [Surface](#5-surface)
-   7.1 [Mockups v1](#61-mockups-v1)
-   7.2 [Mockups v1](#61-mockups-v1)
+   7.1 [Mockups v1](#61-mockups-v1)  
+   7.2 [Mockups v1](#61-mockups-v1)  
 
 ---
 
