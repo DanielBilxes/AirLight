@@ -237,7 +237,7 @@ Design Notes:
    - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
    - Useful for validating structure, navigation, and interaction logic before moving to high-fidelity prototypes.
 
-📁 [Wireframes Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Dise%C3%B1o-Interface-Humano-Computador?node-id=2499-354&t=UA7kh9ZzevMll6bg-1)      
+📁 [Wireframes Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2508-29&p=f&t=Uxyh6QSb6Syg6mdW-0)      
 Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
 
 ---
