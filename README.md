@@ -274,7 +274,7 @@ Initial testing of typography readability on the History tables.
 (Note: Insert a collage image here showing the early versions of the Dashboard and Login).
 
 Login Views:  
-![value_canvas](./01-context/Login-Web.png)   
+![value_canvas](./01-context/Login-Web.jpg)   
 ![value_canvas](./01-context/Login-User.jpg)  
 
 Dashboards Views:  
