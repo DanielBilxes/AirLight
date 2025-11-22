@@ -250,7 +250,7 @@ Through Figma, the team was able to:
    - Collaborate in real time, making adjustments and comments directly on the designs.
    - Validate usability and visual consistency before moving to the development phase.
    
-📁 [Figma Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2671-29&p=f&t=hB37XuIXhJjbfGOe-0).
+📁 [Figma Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=3235-1348&p=f&t=YFDD8SZagKvsHPH0-0).
 In summary, the Figma Workspace serves as the central hub for visual design and usability validation of the AirLight project.
 
 
