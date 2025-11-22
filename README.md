@@ -305,7 +305,8 @@ Dashboard: The central hub displaying the current global status. Add News: A con
 ![value_canvas](./01-context/Dashboard-Web3.jpg) 
 
 History & Add Record: Full access to historical data logs with the ability to manually input new air quality records.  
-![value_canvas](./01-context/Historial-Web-dos.png) ![value_canvas](./01-context/Add-Register.jpg) 
+![value_canvas](./01-context/Historial-Web-dos.png)  
+![value_canvas](./01-context/Add-Register.jpg) 
 
 Map & Reports: Allows the admin to view the location of active sensors and review specific reports submitted by citizens. 
 ![value_canvas](./01-context/Mapa-Completo.jpg) 
