@@ -29,8 +29,8 @@
 7. [Figma](#7-figma) 
 
 8. [Surface](#8-surface)  
-   8.1 [Mockups v1](#78-mockups-v1)  
-   8.2 [Mockups v2](#78-mockups-v2)  
+   8.1 [Mockups v1](#81-mockups-v1)  
+   8.2 [Mockups v2](#82-mockups-v2)  
 
 ---
 
