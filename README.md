@@ -291,22 +291,30 @@ Map Views:
 ---
 
 ### 7.2 Mockups v2
-Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, spacing (white space), and accessibility contrasts.
+Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, accessibility contrasts, and introduces the complete feature set for system administration.
 
 We prioritized the four core views to ensure a seamless user experience across devices:
 
 A. Web Admin Interface
-The desktop view focuses on data management and broad visualization.
+The desktop view has been expanded into a comprehensive command center, divided into three key operational areas:
 
 Login: Clean and secure entry point for administrators.
 ![value_canvas](./01-context/Login-Web2.jpg) 
 
-
-Dashboard: A centralized command center featuring the editable "Air Status" and real-time alerts.
+Dashboard: The central hub displaying the current global status. 
+   - Add News: A content management tool to publish health advice and local updates directly to the mobile app.
 ![value_canvas](./01-context/Dashboard-Web3.jpg) 
 
-Map & History: Detailed visualization tools for tracking environmental data across different sectors.
+History & Add Record: Full access to historical data logs with the ability to manually input new air quality records.  
 ![value_canvas](./01-context/Historial-Web2.jpg) ![value_canvas](./01-context/Add-Register.jpg) 
+
+Map & Reports: Allows the admin to view the location of active sensors and review specific reports submitted by citizens. 
+![value_canvas](./01-context/Mapa-Completo.jpg) 
+
+Settings: A robust section for platform management.  
+   - Profile Management: Edit admin details.
+   - User Roles: Create and manage Administrator or Standard User profiles.
+   - Appearance: Includes a Dark Mode toggle, allowing the interface to adapt to low-light environments for better visual ergonomics.
 
 
 B. Mobile User Interface
