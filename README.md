@@ -28,7 +28,7 @@
 
 7. [Surface](#7-surface)  
    7.1 [Mockups v1](#71-mockups-v1)  
-   7.2 [Mockups v1](#71-mockups-v1)  
+   7.2 [Mockups v2](#72-mockups-v2)  
 
 ---
 
@@ -299,7 +299,7 @@ A. Web Admin Interface
 The desktop view focuses on data management and broad visualization.
 
 Login: Clean and secure entry point for administrators.
-![value_canvas](./01-context/Mapa-Web2.jpg) 
+![value_canvas](./01-context/Login-Web2.jpg) 
 
 
 Dashboard: A centralized command center featuring the editable "Air Status" and real-time alerts.
