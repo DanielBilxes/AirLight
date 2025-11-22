@@ -25,10 +25,12 @@
 
 6. [Skeleton](#6-skeleton)   
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)
+    
+7. [Figma](#7-figma) 
 
-7. [Surface](#7-surface)  
-   7.1 [Mockups v1](#71-mockups-v1)  
-   7.2 [Mockups v2](#72-mockups-v2)  
+8. [Surface](#8-surface)  
+   8.1 [Mockups v1](#78-mockups-v1)  
+   8.2 [Mockups v2](#78-mockups-v2)  
 
 ---
 
@@ -232,6 +234,8 @@ Main Views and Features:
    - Navigation bar at the bottom to switch between Home, Map, and History.
 
 ---
+
+## 7. Figma
 
 Design Notes:
    - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
