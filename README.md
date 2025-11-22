@@ -314,6 +314,8 @@ Settings: A robust section for platform management.
    - Profile Management: Edit admin details.
    - User Roles: Create and manage Administrator or Standard User profiles.
    - Appearance: Includes a Dark Mode toggle, allowing the interface to adapt to low-light environments for better visual ergonomics.
+![value_canvas](./01-context/Ajustes-Web.jpg)
+![value_canvas](./01-context/Ajustes-Web-Oscuro.jpg) 
 
 
 B. Mobile User Interface
