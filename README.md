@@ -335,8 +335,7 @@ Dashboard: Prioritizes the current status color and immediate health recommendat
 ![value_canvas](./01-context/Mockupv2User/Dashboardusernuevo.png)  
 
 Map: Interactive touch interface to check air quality in specific neighborhoods.  
-![value_canvas](./01-context/Mockupv2User/Mapausernuevo.png)  
-![value_canvas](./01-context/Mockupv2User/Reporteusuariomovil.png)  
+![value_canvas](./01-context/Mockupv2User/Mapacompleto.png)    
 
 Local News Hub: A dedicated tab in the bottom navigation bar. Instead of cramping snippets into the Dashboard, this full-screen view allows users to browse detailed articles, environmental updates, and official announcements comfortably using a card-style layout.  
 ![value_canvas](./01-context/Mockupv2User/Noticiasuser.png)  
