@@ -278,16 +278,16 @@ Login Views:
 ![value_canvas](./01-context/Mockupv1/Loginuser.png)  
 
 Dashboards Views:  
-![value_canvas](./01-context/Dashboard-Web.jpg)   
-![value_canvas](./01-context/Dashboard-User.jpg)   
+![value_canvas](./01-context/Mockupv1/Dashboardweb.png)   
+![value_canvas](./01-context/Mockupv1/Dashboaruser.png)   
 
 History Views:  
-![value_canvas](./01-context/Historial-Web.jpg)   
-![value_canvas](./01-context/Historial-User.jpg)  
+![value_canvas](./01-context/Mockupv1/Historialweb.png)   
+![value_canvas](./01-context/Mockupv1/Historialuser.png)  
 
 Map Views:  
-![value_canvas](./01-context/Mapa-Web.jpg)   
-![value_canvas](./01-context/Mapa-User.jpg)  
+![value_canvas](./01-context/Mockupv1/Mapaweb.png)   
+![value_canvas](./01-context/Mockupv1/Mapauser.png)  
 
 ---
 
