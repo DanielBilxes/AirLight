@@ -299,24 +299,24 @@ A. Web Admin Interface
 The desktop view has been expanded into a comprehensive command center, divided into three key operational areas:
 
 Login: Clean and secure entry point for administrators.
-![value_canvas](./01-context/Login-Web2.jpg) 
+![value_canvas](./01-context/Mockupv2Admin/Loginwebdos.png) 
 
 Dashboard: The central hub displaying the current global status. Add News: A content management tool to publish health advice and local updates directly to the mobile app.
-![value_canvas](./01-context/Dashboard-Web3.jpg) 
+![value_canvas](./01-context/Mockupv2Admin/Dashboardwebtres.png) 
 
 History & Add Record: Full access to historical data logs with the ability to manually input new air quality records.  
-![value_canvas](./01-context/Historial-Web-dos.png)  
-![value_canvas](./01-context/Add-Register.jpg) 
+![value_canvas](./01-context/Mockupv2Admin/Historialwebdos.png)  
+![value_canvas](./01-context/Mockupv2Admin/Addregister.png) 
 
 Map & Reports: Allows the admin to view the location of active sensors and review specific reports submitted by citizens. 
-![value_canvas](./01-context/Mapa-Completo.jpg) 
+![value_canvas](./01-context/Mockupv2Admin/Mapacompleto.png) 
 
 Settings: A robust section for platform management.  
    - Profile Management: Edit admin details.
    - User Roles: Create and manage Administrator or Standard User profiles.
    - Appearance: Includes a Dark Mode toggle, allowing the interface to adapt to low-light environments for better visual ergonomics.
-![value_canvas](./01-context/Ajustes-Web.jpg)
-![value_canvas](./01-context/Ajustes-Web-Oscuro.jpg) 
+![value_canvas](./01-context/Mockupv2Admin/Ajustesweb.png)
+![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png) 
 
 
 B. Mobile User Interface
