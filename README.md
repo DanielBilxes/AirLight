@@ -339,7 +339,7 @@ Map: Interactive touch interface to check air quality in specific neighborhoods.
 ![value_canvas](./01-context/Mockupv2User/Reporteusuariomovil.png)  
 
 Local News Hub: A dedicated tab in the bottom navigation bar. Instead of cramping snippets into the Dashboard, this full-screen view allows users to browse detailed articles, environmental updates, and official announcements comfortably using a card-style layout.  
-![value_canvas](./01-context/Mockupv2User/Noticiauser.png)  
+![value_canvas](./01-context/Mockupv2User/Noticiasuser.png)  
 
 ***Design Evolution (v1 vs. v2): De-cluttering the Dashboard In Mockup v1, news items were displayed directly on the Dashboard.***  
    ***Rationale: We identified that mixing alerts with news articles caused visual overcrowding (information overload). By moving news to a dedicated tab in the navigation bar, we achieved two goals:***  
