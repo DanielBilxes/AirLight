@@ -363,18 +363,18 @@ User Profile & Personalization: A comprehensive settings section that allows use
 
 ## 9. Heuristic Evaluation
 
+📄 **[View Full Heuristic Evaluation Report](./01-context/AIRLIGHT%20(evaluación%20Heurística).pdf)**
+ *Contains the complete analysis, severity ratings, specific problem descriptions, and individual SUS calculations.*  
+ 
 To validate our initial design (v1), we conducted a Heuristic Evaluation using the **Nielsen & Molich** principles. The evaluation yielded an average **System Usability Scale (SUS) score of 24/100** (Deficient), highlighting critical issues in user control, navigation, and visual consistency.
 
-Based on these findings, we engineered the **v2 Interface** to address the most severe pain points:
+Based on these findings, we engineered the **v2 Interface** to address the most severe pain points:  
 
 | Problem Detected (v1) | Applied Solution (v2) |
 | :--- | :--- |
 | **Visual Overcrowding & Navigation:** <br> Testers found the Dashboard "dense and text-heavy." News items were mixed with critical alerts, and the only way to see more news was a small, non-intuitive link. | **De-cluttering & Dedicated Tabs:** <br> We moved News to a **dedicated tab** in the navigation bar. The Dashboard now focuses exclusively on the Air Quality Alert to reduce cognitive load. |
 | **Lack of User Control:** <br> The system lacked a "User Profile" section. Users had no way to manage their account, recover passwords, or personalize settings. | **New Profile & Personalization:** <br> We implemented a robust **Settings Module** allowing users to manage security, edit data, and customize health alerts (e.g., for asthma). |
 | **Inconsistent Visuals & Feedback:** <br> Button placements changed between screens, and color contrast (Green/Black) was poor, making text hard to read. | **Design System Standardization:** <br> We established a consistent **Grid & Typography System**. We improved contrast ratios and standardized button locations (primary actions always on the right). |   
-
-📄 **[View Full Heuristic Evaluation Report](./01-context/AIRLIGHT%20(evaluación%20Heurística).pdf)**
- *Contains the complete analysis, severity ratings, specific problem descriptions, and individual SUS calculations.*
 
 
 ---
