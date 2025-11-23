@@ -20,7 +20,7 @@
 
 5. [Structure](#4-structure)    
    5.1 [Navigation Flow](#51-navigation-flow)        
-        5.1.1 [Web Admin View](#511-web-admin-view)        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.1 [Web Admin View](#511-web-admin-view)        
         5.1.2 [Mobile User View](#512-mobile-user-view)    
 
 6. [Skeleton](#6-skeleton)   
