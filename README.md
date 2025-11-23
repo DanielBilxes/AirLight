@@ -39,11 +39,11 @@
 ## 1. Introduction  
 
 ### 1.1 The Problem  
-Air pollution in southern Chile (Temuco, Padre Las Casas, Labranza) is a serious health concern.  
+Air pollution in southern Chile (Temuco, Padre Las Casas, Labranza) is a ***serious health concern***.  
 Citizens often:  
-- Lack fast and reliable information about air quality.  
-- Don’t know what preventive measures to take in emergencies.  
-- Must search across multiple websites to access local news and updates.  
+- Lack ***fast and reliable information*** about air quality.  
+- Don’t know what ***preventive measures*** to take in emergencies.  
+- Must search across ***multiple websites*** to access local news and updates.  
 
 At the same time, administrators face difficulties in:  
 - Communicating alerts to the population in real time.  
@@ -54,7 +54,7 @@ At the same time, administrators face difficulties in:
 We propose a web and mobile application – AirLight – with two profiles: administrator and citizen user. 
 
 - **Citizen User**  
-  - Immediately sees the **traffic-light indicator** (green, yellow, red and purple).  
+  - Immediately sees the **light indicator** (green, yellow, red and purple).  
   - Receives clear **health recommendations** according to air status.  
   - Accesses **interactive maps**, **local news**, and an **air quality history**.  
 
@@ -123,7 +123,7 @@ The goal was to identify strengths, weaknesses, and opportunity gaps, both funct
 We considered different types of references:
 Direct competitors: Air quality applications such as Aire Santiago, AirVisual, and Aire Temuco.
 Data platforms: Services recognized for their clear way of displaying environmental and health information.
-User experience references: Applications known for their modern, accessible, and minimalistic design, which inspired the aesthetic and usability of our solution.
+User experience references: Applications known for their ***modern, accessible, and minimalistic design***, which inspired the aesthetic and usability of our solution.
 
 ![value_canvas](./01-context/Benchmark.png)
 
@@ -334,7 +334,7 @@ Login: Simplified access for citizens with registration and password recovery.
 Dashboard: Prioritizes the current status color and immediate health recommendations.  
 ![value_canvas](./01-context/Mockupv2User/Dashboardusernuevo.png)  
 
-Map: Interactive touch interface to check air quality in specific neighborhoods.  
+Map: Interactive touch interface to check air quality in specific neighborhoods. Includes a ***Community Reporting*** feature, allowing users to flag malfunctioning sensors directly from the location details card.  
 ![value_canvas](./01-context/Mockupv2User/Mapareport.png)    
 
 Local News Hub: A dedicated tab in the bottom navigation bar. Instead of cramping snippets into the Dashboard, this full-screen view allows users to browse detailed articles, environmental updates, and official announcements comfortably using a card-style layout.  
