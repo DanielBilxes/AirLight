@@ -400,6 +400,7 @@ The new Profile section introduces Functional Accessibility by allowing users to
 ![value_canvas](./01-context/Mockupv2User/Saludusuario.png)
 
 
-### 10.1 Visual Accessibility
+---
+
 
 This documentation is part of the **Human–Computer Interface Design** course project and follows UXD methodology for academic purposes.  
