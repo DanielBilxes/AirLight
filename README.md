@@ -243,8 +243,7 @@ Design Notes:
    - This prototype is considered a low-fidelity wireframe: it demonstrates layout and feature placement, not final visual design.
    - Useful for validating structure, navigation, and interaction logic before moving to high-fidelity prototypes.
 
-📁 [Wireframes Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2508-29&p=f&t=Uxyh6QSb6Syg6mdW-0)      
-Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
+📁 [Wireframes Workspace - AirLight](https://www.figma.com/design/tXHDp6oZXnSSmCe95MtALs/Diseño-Interface-Humano-Computador?node-id=2508-29&p=f&t=Uxyh6QSb6Syg6mdW-0) Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
 
 ---
 
@@ -273,7 +272,7 @@ Application of the primary color palette to the "Traffic Light" indicator.
 Basic layout of the Dashboard and Login screens for both Web and Mobile.  
 Initial testing of typography readability on the History tables.  
 
-(Note: Insert a collage image here showing the early versions of the Dashboard and Login).
+*(Note: Insert a collage image here showing the early versions of the Dashboard and Login).*
 
 Login Views:  
 ![value_canvas](./01-context/Mockupv1/Loginweb.png)   
@@ -341,9 +340,9 @@ Local News Hub: A dedicated tab in the bottom navigation bar. Instead of crampin
 ![value_canvas](./01-context/Mockupv2User/Noticiasuser.png)  
 
 ***Design Evolution (v1 vs. v2): De-cluttering the Dashboard In Mockup v1, news items were displayed directly on the Dashboard.***  
-   ***Rationale: We identified that mixing alerts with news articles caused visual overcrowding (information overload). By moving news to a dedicated tab in the navigation bar, we achieved two goals:***  
-   ***- Cleaner Dashboard: The Home screen now focuses 100% on the critical status alert.***  
-   ***- Better Reading Experience: Users can now explore content with larger images and clearer typography without space constraints.***  
+   *Rationale: We identified that mixing alerts with news articles caused visual overcrowding (information overload). By moving news to a dedicated tab in the navigation bar, we achieved two goals:*  
+   *- Cleaner Dashboard: The Home screen now focuses 100% on the critical status alert.*  
+   *- Better Reading Experience: Users can now explore content with larger images and clearer typography without space constraints.*  
 
 User Profile & Personalization: A comprehensive settings section that allows users to:
    - Manage Personal Information: Update contact details and profile photos.
@@ -352,7 +351,7 @@ User Profile & Personalization: A comprehensive settings section that allows use
 ![value_canvas](./01-context/Mockupv2User/Userperfil.png)
 
 ***Design Evolution (v1 vs. v2): Removal of User History In the transition to v2, the History View was removed from the Mobile User interface.***
-***Rationale: User testing and analysis determined that while historical data is essential for Administrators (for pattern analysis and reporting), Citizen Users prioritize real-time data and immediate action. Removing the historical table reduced cognitive load and streamlined the mobile navigation bar to the three most essential features: Status (Home), Location (Map), and Personalization (Profile).***
+*Rationale: User testing and analysis determined that while historical data is essential for Administrators (for pattern analysis and reporting), Citizen Users prioritize real-time data and immediate action. Removing the historical table reduced cognitive load and streamlined the mobile navigation bar to the three most essential features: Status (Home), Location (Map), and Personalization (Profile).*
 
 
 ---
