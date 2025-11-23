@@ -30,8 +30,8 @@
 
 8. [Surface](#8-surface)  
    8.1 [Mockups v1](#81-mockups-v1)  
-   8.2 [Mockups v2](#82-mockups-v2)
-   8.2.1 [Web Admin](#822-web-admin)
+   8.2 [Mockups v2](#82-mockups-v2)  
+   8.2.1 [Web Admin](#821-web-admin)  
    8.2.2 [Mobile User](#822-mobile-user)  
 
 ---
@@ -321,7 +321,7 @@ Settings: A robust section for platform management.
 ![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png) 
 
 
-#### 8.2.1 Mobile User
+#### 8.2.2 Mobile User
 The mobile view is optimized for quick interactions and on-the-go readability.
 
 Login: Simplified access for citizens with registration and password recovery.  
