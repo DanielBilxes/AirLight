@@ -328,9 +328,19 @@ Login: Simplified access for citizens with registration and password recovery.
 ![value_canvas](./01-context/Mockupv2User/Loginusernuveo.png)
 
 Dashboard: Prioritizes the current status color and immediate health recommendations.
+![value_canvas](./01-context/Mockupv2User/Dashboardusernuevo.png)  
 
 Map: Interactive touch interface to check air quality in specific neighborhoods.  
-![value_canvas](./01-context/Mockupv2User/Mapausernuevo.png)
+![value_canvas](./01-context/Mockupv2User/Mapausernuevo.png)  
+
+Local News Hub: A dedicated tab in the bottom navigation bar. Instead of cramping snippets into the Dashboard, this full-screen view allows users to browse detailed articles, environmental updates, and official announcements comfortably using a card-style layout.
+![value_canvas](./01-context/Mockupv2User/Noticiauser.png)  
+
+***Design Evolution (v1 vs. v2): De-cluttering the Dashboard In Mockup v1, news items were displayed directly on the Dashboard.***
+   ***- Rationale: We identified that mixing alerts with news articles caused visual overcrowding (information overload). By moving news to a dedicated tab in the navigation bar, we achieved two goals:***
+   ***- Cleaner Dashboard: The Home screen now focuses 100% on the critical status alert.***
+
+Better Reading Experience: Users can now explore content with larger images and clearer typography without space constraints.
 
 User Profile & Personalization: A comprehensive settings section that allows users to:
    - Manage Personal Information: Update contact details and profile photos.
