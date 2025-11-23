@@ -30,7 +30,9 @@
 
 8. [Surface](#8-surface)  
    8.1 [Mockups v1](#81-mockups-v1)  
-   8.2 [Mockups v2](#82-mockups-v2)  
+   8.2 [Mockups v2](#82-mockups-v2)
+   8.2.1 [Web Admin](#822-web-admin)
+   8.2.2 [Mobile User](#822-mobile-user)  
 
 ---
 
@@ -295,7 +297,7 @@ Map Views:
 Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, accessibility contrasts, and introduces the complete feature set for system administration.  
 We prioritized the four core views to ensure a seamless user experience across devices:
 
-A. Web Admin Interface
+#### 8.2.1 Web Admin
 The desktop view has been expanded into a comprehensive command center, divided into three key operational areas:
 
 Login: Clean and secure entry point for administrators.
@@ -319,7 +321,7 @@ Settings: A robust section for platform management.
 ![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png) 
 
 
-B. Mobile User Interface
+#### 8.2.1 Mobile User
 The mobile view is optimized for quick interactions and on-the-go readability.
 
 Login: Simplified access for citizens with registration and password recovery.  
