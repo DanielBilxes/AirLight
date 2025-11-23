@@ -278,7 +278,7 @@ Login Views:
 ![value_canvas](./01-context/Mockupv1/Loginuser.png)  
 
 Dashboards Views:  
-![value_canvas](./01-context/Mockupv1/Dashboarddweb.png)   
+![value_canvas](./01-context/Mockupv1/Dashboardweb.png)   
 ![value_canvas](./01-context/Mockupv1/Dashboarduser.png)   
 
 History Views:  
