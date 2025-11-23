@@ -36,9 +36,9 @@
 
 9. [Heuristic Evaluation](#9-heuristic-evaluation)
 
-10. [Accessibility & Inclusion](#10-accessibility-&-inclusion)  
+10. [Accessibility and Inclusion](#10-accessibility-and-inclusion)  
    10.1 [Cognitive Accessibility](#101-cognitive-accessibility)   
-   10.2 [Visual Accessibility & Contrast](#102-visual-accessibility-&-contrast)  
+   10.2 [Visual Accessibility and Contrast](#102-visual-accessibility-and-contrast)  
    10.3 [Functional Inclusion](#103-functional-inclusion)
 
 ---
@@ -385,11 +385,11 @@ Based on these findings, we engineered the **v2 Interface** to address the most 
 ---
 
 
-## 10. Accessibility & Inclusion
+## 10. Accessibility and Inclusion
 ### 10.1 Cognitive Accessibility 
 By removing the complex history table from the mobile view and moving news to a dedicated tab, we significantly reduced information overload. This adherence to the **"Less is More"** principle makes the application more accessible and easier to navigate for users with **attention deficits or lower digital literacy.**
 
-### 10.2 Visual Accessibility & Contrast
+### 10.2 Visual Accessibility and Contrast
 Following the Heuristic Evaluation findings—which flagged critical contrast issues (specifically green text on black backgrounds) and inconsistent typography —the v2 interface implements a high-contrast color palette with clear backgrounds and standardized typography. These corrections maximize legibility for users with reduced vision or visual fatigue.
 Dark Mode (High Contrast): A native Dark Mode was designed to reduce eye strain in low-light environments and improve battery efficiency, maintaining a strictly checked contrast ratio for text readability.  
 ![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png)  
