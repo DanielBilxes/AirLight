@@ -373,6 +373,9 @@ Based on these findings, we engineered the **v2 Interface** to address the most 
 | **Lack of User Control:** <br> The system lacked a "User Profile" section. Users had no way to manage their account, recover passwords, or personalize settings. | **New Profile & Personalization:** <br> We implemented a robust **Settings Module** allowing users to manage security, edit data, and customize health alerts (e.g., for asthma). |
 | **Inconsistent Visuals & Feedback:** <br> Button placements changed between screens, and color contrast (Green/Black) was poor, making text hard to read. | **Design System Standardization:** <br> We established a consistent **Grid & Typography System**. We improved contrast ratios and standardized button locations (primary actions always on the right). |   
 
+📄 **[View Full Heuristic Evaluation Report](./01-context/AIRLIGHT%20(evaluación%20Heurística).pdf)**
+ *Contains the complete analysis, severity ratings, specific problem descriptions, and individual SUS calculations.*
+
 
 ---
 
