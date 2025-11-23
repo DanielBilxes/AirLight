@@ -36,6 +36,11 @@
 
 9. [Heuristic Evaluation](#9-heuristic-evaluation)
 
+10. [Accessibility & Inclusion](#10-accessibility-&-inclusion)  
+   10.1 [Cognitive Accessibility](#101-cognitive-accessibility)   
+   10.2 [Visual Accessibility & Contrast](#102-visual-accessibility-&-contrast)
+   10.3 [Functional Inclusion](#103-functional-inclusion)
+
 ---
 
 ## 1. Introduction  
@@ -392,7 +397,7 @@ Dark Mode (High Contrast): A native Dark Mode was designed to reduce eye strain 
 
 ### 10.3 Functional Inclusion (Health Personalization)  
 The new Profile section introduces Functional Accessibility by allowing users to configure specific health triggers, such as "Asthma" or "Seasonal Allergies". This feature adapts the system’s behavior to the user’s specific physical capabilities and vulnerabilities, ensuring that alerts are relevant and actionable for sensitive groups.  
-![value_canvas](./01-context/Mockupv2Admin/Saludusuario.png)
+![value_canvas](./01-context/Mockupv2User/Saludusuario.png)
 
 
 ### 10.1 Visual Accessibility
