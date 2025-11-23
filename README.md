@@ -311,7 +311,9 @@ History & Add Record: Full access to historical data logs with the ability to ma
 ![value_canvas](./01-context/Mockupv2Admin/Addregister.png) 
 
 Map & Reports: Allows the admin to view the location of active sensors and review specific reports submitted by citizens. 
-![value_canvas](./01-context/Mockupv2Admin/Mapacompleto.png) 
+![value_canvas](./01-context/Mockupv2Admin/Mapawebdos.png)  
+![value_canvas](./01-context/Mockupv2Admin/Reporteusers.png)  
+![value_canvas](./01-context/Mockupv2Admin/Sensoresstatus.png)  
 
 Settings: A robust section for platform management.  
    - Profile Management: Edit admin details.
