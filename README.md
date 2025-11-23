@@ -323,7 +323,7 @@ B. Mobile User Interface
 The mobile view is optimized for quick interactions and on-the-go readability.
 
 Login: Simplified access for citizens with registration and password recovery.  
-![value_canvas](./01-context/Mockupv2User/Loginusernuevo.png)
+![value_canvas](./01-context/Mockupv2User/Loginusernuveo.png)
 
 Dashboard: Prioritizes the current status color and immediate health recommendations.
 
