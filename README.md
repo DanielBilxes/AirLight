@@ -322,13 +322,22 @@ Settings: A robust section for platform management.
 B. Mobile User Interface
 The mobile view is optimized for quick interactions and on-the-go readability.
 
-Login: Simplified access for citizens.
+Login: Simplified access for citizens with registration and password recovery
+![value_canvas](./01-context/Mockupv2User/Loginusernuevo.png)
 
 Dashboard: Prioritizes the current status color and immediate health recommendations.
 
 Map: Interactive touch interface to check air quality in specific neighborhoods.
+![value_canvas](./01-context/Mockupv2User/Mapausernuevo.png)
 
-History: Responsive data tables adapted for smaller screens.
+User Profile & Personalization: A comprehensive settings section that allows users to:
+   - Manage Personal Information: Update contact details and profile photos.
+   - Security: Change passwords and manage account privacy.
+   - Health Profile: Crucially, users can toggle specific conditions (e.g., Asthma, Seasonal Allergies, Cardiovascular conditions). This input allows the app to provide tailored notifications for "Sensitive Groups."  
+![value_canvas](./01-context/Mockupv2User/Perfiluser.png)
+
+***Design Evolution (v1 vs. v2): Removal of User History In the transition to v2, the History View was removed from the Mobile User interface.***
+***Rationale: User testing and analysis determined that while historical data is essential for Administrators (for pattern analysis and reporting), Citizen Users prioritize real-time data and immediate action. Removing the historical table reduced cognitive load and streamlined the mobile navigation bar to the three most essential features: Status (Home), Location (Map), and Personalization (Profile).***
 
 
 ---
