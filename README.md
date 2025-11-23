@@ -21,7 +21,7 @@
 5. [Structure](#4-structure)    
    5.1 [Navigation Flow](#51-navigation-flow)        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.1 [Web Admin View](#511-web-admin-view)        
-        5.1.2 [Mobile User View](#512-mobile-user-view)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.2 [Mobile User View](#512-mobile-user-view)    
 
 6. [Skeleton](#6-skeleton)   
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)
@@ -31,8 +31,8 @@
 8. [Surface](#8-surface)  
    8.1 [Mockups v1](#81-mockups-v1)  
    8.2 [Mockups v2](#82-mockups-v2)  
-         8.2.1 [Web Admin](#821-web-admin)  
-         8.2.2 [Mobile User](#822-mobile-user)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.1 [Web Admin](#821-web-admin)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.2 [Mobile User](#822-mobile-user)  
 
 ---
 
