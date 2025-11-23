@@ -386,13 +386,13 @@ By removing the complex history table from the mobile view and moving news to a 
 
 ### 10.2 Visual Accessibility & Contrast  
 Following the Heuristic Evaluation findings—which flagged critical contrast issues (specifically green text on black backgrounds) and inconsistent typography —the v2 interface implements a high-contrast color palette with clear backgrounds and standardized typography. These corrections maximize legibility for users with reduced vision or visual fatigue.
-Dark Mode (High Contrast): A native Dark Mode was designed to reduce eye strain in low-light environments and improve battery efficiency, maintaining a strictly checked contrast ratio for text readability.
-![value_canvas](./01-context/Mockupv1Admin/Ajustesoscuro.png)
-![value_canvas](./01-context/Mockupv2User/Ajustesuseroscuro.png)
+Dark Mode (High Contrast): A native Dark Mode was designed to reduce eye strain in low-light environments and improve battery efficiency, maintaining a strictly checked contrast ratio for text readability.  
+![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png)  
+![value_canvas](./01-context/Mockupv2User/Ajustesuseroscuro.png)  
 
 ### 10.3 Functional Inclusion (Health Personalization)  
-The new Profile section introduces Functional Accessibility by allowing users to configure specific health triggers, such as "Asthma" or "Seasonal Allergies". This feature adapts the system’s behavior to the user’s specific physical capabilities and vulnerabilities, ensuring that alerts are relevant and actionable for sensitive groups.
-![value_canvas](./01-context/Mockupv1Admin/Saludusuario.png)
+The new Profile section introduces Functional Accessibility by allowing users to configure specific health triggers, such as "Asthma" or "Seasonal Allergies". This feature adapts the system’s behavior to the user’s specific physical capabilities and vulnerabilities, ensuring that alerts are relevant and actionable for sensitive groups.  
+![value_canvas](./01-context/Mockupv2Admin/Saludusuario.png)
 
 
 ### 10.1 Visual Accessibility
