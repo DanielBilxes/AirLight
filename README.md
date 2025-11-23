@@ -304,7 +304,9 @@ Login: Clean and secure entry point for administrators.
 ![value_canvas](./01-context/Mockupv2Admin/Loginwebdos.png) 
 
 Dashboard: The central hub displaying the current global status. Add News: A content management tool to publish health advice and local updates directly to the mobile app.
-![value_canvas](./01-context/Mockupv2Admin/Dashboardwetres.png) 
+![value_canvas](./01-context/Mockupv2Admin/Dashboardwebdos.png)  
+![value_canvas](./01-context/Mockupv2Admin/Addnotice.png)  
+![value_canvas](./01-context/Mockupv2Admin/Noticiaanadida.png)  
 
 History & Add Record: Full access to historical data logs with the ability to manually input new air quality records.  
 ![value_canvas](./01-context/Mockupv2Admin/Historialwebdos.png)  
