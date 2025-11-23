@@ -89,7 +89,7 @@ The Value Proposition Canvas aligns the app’s services with the needs of both 
 - **Gain Creators**:  
   Safety and trust for users, awareness in the community, efficient communication, time-saving.  
 
-![value_canvas](./01-context/Value_Proposition.png)
+![value_canvas](./01-context/Propuestavalor.png)
 
 ---
 
@@ -134,7 +134,7 @@ User experience references: Applications known for their modern, accessible, and
 ### 4.1 Costumer Journey Map
 
 These stages reflect the complete journey — from first contact to long-term perception and potential recommendation.
-![value_canvas](./01-context/Costumer_Journey_Map.png)
+![value_canvas](./01-context/Costumerjourneymap.png)
 
 ---
 
@@ -143,10 +143,10 @@ These stages reflect the complete journey — from first contact to long-term pe
 ### 5.1 Navigation Flow
 
 #### 5.1.1 Web Admin View
-![value_canvas](./01-context/Admin_View.png)
+![value_canvas](./01-context/Adminview.png)
 
 #### 5.1.2 Mobile User View
-![value_canvas](./01-context/User_View.png)
+![value_canvas](./01-context/Userview.png)
 
 ---
 
@@ -274,8 +274,8 @@ Initial testing of typography readability on the History tables.
 (Note: Insert a collage image here showing the early versions of the Dashboard and Login).
 
 Login Views:  
-![value_canvas](./01-context/Login-Web.jpg)   
-![value_canvas](./01-context/Login-User.jpg)  
+![value_canvas](./01-context/Mockupv1/Loginweb.png)   
+![value_canvas](./01-context/Mockupv1/Loginuser.png)  
 
 Dashboards Views:  
 ![value_canvas](./01-context/Dashboard-Web.jpg)   
