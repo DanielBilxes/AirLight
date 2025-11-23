@@ -264,7 +264,7 @@ In summary, the Figma Workspace serves as the central hub for visual design and 
 
 ---
 
-## 8. Heuristic Evaluations
+## 8. Heuristic Evaluation
 
 To validate our initial design (v1), we conducted a Heuristic Evaluation using the **Nielsen & Molich** principles. The evaluation yielded an average **System Usability Scale (SUS) score of 24/100** (Deficient), highlighting critical issues in user control, navigation, and visual consistency.
 
