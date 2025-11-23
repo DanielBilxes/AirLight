@@ -26,13 +26,15 @@
 6. [Skeleton](#6-skeleton)   
    6.1 [Low-Fi Wireframes](#61-low-fi-wireframes)
     
-7. [Interactive Prototypes](#7-interactive-prototypes) 
+7. [Interactive Prototypes](#7-interactive-prototypes)
 
-8. [Surface](#8-surface)  
-   8.1 [Mockups v1](#81-mockups-v1)  
-   8.2 [Mockups v2](#82-mockups-v2)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.1 [Web Admin](#821-web-admin)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.2 [Mobile User](#822-mobile-user)  
+8. [Heuristic Evaluation](#8-heuristic-evaluation)
+
+9. [Surface](#9-surface)  
+   9.1 [Mockups v1](#91-mockups-v1)  
+   9.2 [Mockups v2](#92-mockups-v2)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.1 [Web Admin](#921-web-admin)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.2 [Mobile User](#922-mobile-user)  
 
 ---
 
@@ -262,10 +264,25 @@ In summary, the Figma Workspace serves as the central hub for visual design and 
 
 ---
 
-## 8. Surface
+## 8. Heuristic Evaluations
+
+To validate our initial design (v1), we conducted a Heuristic Evaluation using the **Nielsen & Molich** principles. The evaluation yielded an average **System Usability Scale (SUS) score of 24/100** (Deficient), highlighting critical issues in user control, navigation, and visual consistency.
+
+Based on these findings, we engineered the **v2 Interface** to address the most severe pain points:
+
+| Problem Detected (v1) | Applied Solution (v2) |
+| :--- | :--- |
+| **Visual Overcrowding & Navigation:** <br> Testers found the Dashboard "dense and text-heavy." News items were mixed with critical alerts, and the only way to see more news was a small, non-intuitive link. | **De-cluttering & Dedicated Tabs:** <br> We moved News to a **dedicated tab** in the navigation bar. The Dashboard now focuses exclusively on the Air Quality Alert to reduce cognitive load. |
+| **Lack of User Control:** <br> The system lacked a "User Profile" section. Users had no way to manage their account, recover passwords, or personalize settings. | **New Profile & Personalization:** <br> We implemented a robust **Settings Module** allowing users to manage security, edit data, and customize health alerts (e.g., for asthma). |
+| **Inconsistent Visuals & Feedback:** <br> Button placements changed between screens, and color contrast (Green/Black) was poor, making text hard to read. | **Design System Standardization:** <br> We established a consistent **Grid & Typography System**. We improved contrast ratios and standardized button locations (primary actions always on the right). | 
+
+
+---
+
+## 9. Surface
 This layer defines the final visual appearance of AirLight. We applied the visual identity, color palette, and typography to bring the wireframes to life, ensuring the interface is both aesthetically pleasing and functional.
 
-### 8.1 Mockups v1
+### 9.1 Mockups v1
 In this first high-fidelity iteration, we translated the skeletal structure into visual designs. The focus was on applying the Air Quality Color System (Green, Yellow, Orange, Red, Purple) to test how users perceive the alerts.
 
 Key focus areas:
@@ -293,11 +310,11 @@ Initial testing of typography readability on the History tables.
 
 ---
 
-### 8.2 Mockups v2
+### 9.2 Mockups v2
 Based on visual analysis and consistency checks, we developed the final version of the interface. This version improves visual hierarchy, accessibility contrasts, and introduces the complete feature set for system administration.  
 We prioritized the four core views to ensure a seamless user experience across devices:
 
-#### 8.2.1 Web Admin
+#### 9.2.1 Web Admin
 The desktop view has been expanded into a comprehensive command center, divided into three key operational areas:
 
 **Login:** Clean and secure entry point for administrators.
@@ -325,7 +342,7 @@ The desktop view has been expanded into a comprehensive command center, divided 
 ![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png) 
 
 
-#### 8.2.2 Mobile User
+#### 9.2.2 Mobile User
 The mobile view is optimized for quick interactions and on-the-go readability.
 
 **Login:** Simplified access for citizens with registration and password recovery.  
