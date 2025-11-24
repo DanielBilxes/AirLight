@@ -357,7 +357,7 @@ User Profile & Personalization: A comprehensive settings section that allows use
    - Manage Personal Information: Update contact details and profile photos.
    - Security: Change passwords and manage account privacy.
    - Health Profile: Crucially, users can toggle specific conditions (e.g., Asthma, Seasonal Allergies, Cardiovascular conditions). This input allows the app to provide tailored notifications for "Sensitive Groups."  
-![value_canvas](./01-context/Mockupv2User/Perfilusuario.png)
+![value_canvas](./01-context/Mockupv2User/Userperfil.png)
 
 ***Design Evolution (v1 vs. v2): Removal of User History In the transition to v2, the History View was removed from the Mobile User interface.***
 *Rationale: User testing and analysis determined that while historical data is essential for Administrators (for pattern analysis and reporting), Citizen Users prioritize real-time data and immediate action. Removing the historical table reduced cognitive load and streamlined the mobile navigation bar to the three most essential features: Status (Home), Location (Map), and Personalization (Profile).*
@@ -393,7 +393,7 @@ By removing the complex history table from the mobile view and moving news to a 
 Following the Heuristic Evaluation findings—which flagged critical contrast issues (specifically green text on black backgrounds) and inconsistent typography —the v2 interface implements a high-contrast color palette with clear backgrounds and standardized typography. These corrections maximize legibility for users with reduced vision or visual fatigue.
 Dark Mode (High Contrast): A native Dark Mode was designed to reduce eye strain in low-light environments and improve battery efficiency, maintaining a strictly checked contrast ratio for text readability.  
 ![value_canvas](./01-context/Mockupv2Admin/Ajustesoscuro.png)  
-![value_canvas](./01-context/Mockupv2User/Ajustesuseroscuro.png)  
+![value_canvas](./01-context/Mockupv2User/Useroscuroclaro.png)  
 
 ### 10.3 Functional Inclusion
 The new Profile section introduces Functional Accessibility by allowing users to configure specific health triggers, such as "Asthma" or "Seasonal Allergies". This feature adapts the system’s behavior to the user’s specific physical capabilities and vulnerabilities, ensuring that alerts are relevant and actionable for sensitive groups.  
